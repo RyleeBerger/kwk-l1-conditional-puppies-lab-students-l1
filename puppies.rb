@@ -23,10 +23,10 @@ end
 
 def some_puppies(number_of_puppies, maxium_puppies)
   if number_of_puppies < maxium_puppies % 2
-    "Good job, Rachel"
+    "Good job!"
   else 
     number_of_puppies > maxium_puppies
-    "GET BACK ON THE PUPPY RESTRICTION!"
+    "GET BACK ON THE PUPPY RESTRICTION RACHEL!"
   end
 end
   
