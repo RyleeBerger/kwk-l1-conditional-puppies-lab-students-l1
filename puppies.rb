@@ -8,7 +8,7 @@ def no_puppies(int)
     puts "Well done, Rachel!"
   end
 end
-  puts no_puppies
+  puts no_puppies()
 
 
 
