@@ -14,9 +14,9 @@ def less_puppies(int)
   if int < 3
      "Good job, Rachel!"
     elsif int == 3
-     "Slow down Rachel!"
+     "Slow down! No more puppies!"
   else int > 3
-     "Rachel get back to your animal goals!"
+     "Get back to your animal goals!"
   end
 end
 
